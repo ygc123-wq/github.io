@@ -12,4 +12,4 @@
 1. 奥特曼 
 1. 猫和老鼠
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
-cat ~/ .ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
